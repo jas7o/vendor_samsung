@@ -143,6 +143,7 @@ PRODUCT_PACKAGES += \
     libsensorlistener \
     libskeymaster4device \
     libuniapi \
+    libutils-v32 \
     libvkmanager_vendor \
     vendor.samsung.hardware.gnss@2.0 \
     vendor.samsung.hardware.radio.bridge@2.0 \
