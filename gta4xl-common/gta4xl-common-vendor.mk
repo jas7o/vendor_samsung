@@ -141,6 +141,7 @@ PRODUCT_PACKAGES += \
     libiwt \
     libkeymaster_helper \
     libskeymaster4device \
+    libutils-v32 \
     vendor.samsung.hardware.gnss@2.0 \
     libaptX_encoder \
     manifest_android.hardware.drm@1.4-service.widevine \
